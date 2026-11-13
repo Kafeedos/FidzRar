@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+build/
+*.spec
+dist/
+.venv/
+FidzRar.lnk
+MASTER-PROMPT.md

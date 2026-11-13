@@ -1,0 +1,3 @@
+# Optional: enables drag & drop when running from source.
+# The packaged FidzRar.exe already contains it.
+tkinterdnd2>=0.7.0
